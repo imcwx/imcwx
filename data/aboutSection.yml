@@ -1,13 +1,13 @@
 ---
 enable: true
-topTitle: About
+topTitle: " "
 title: >
   ## About me
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  Enjoys working with a diverse team, on purposeful task that 
+  are a little challenging at times
 content: >
-  ### I design and build ultimate things.
+  ### I design solutions that creates value through Data 
 
   I love to work in User Experience & User Interface designing. Because I love
   to solve the design problem and find easy and better solutions to solve it. I always
@@ -17,4 +17,4 @@ button1Name: Hire me
 button2Name: Download CV
 button1Target: contact
 button2Target: contact
-image: images/about/about-img.jpg
+image: images/about/me_groomsman.jpg

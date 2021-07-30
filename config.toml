@@ -1,8 +1,10 @@
-baseURL = "http://example.org/"
+baseURL = "https://imcwx.github.io/imcwx/"
 languageCode = "en-us"
 paginate = 6
+
 theme = "portio"
-title = "Portio"
+title = "My Awesome Site"
+
 # Main Menu
 [[menu.main]]
 name = "Home"

@@ -50,13 +50,13 @@ url = "#"
 weight = 3
 [[menu.sitemap]]
 name = "Latest Article"
-url = "#"
+url = "blog"
 weight = 4
 
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "All right reserved copyright © Portio 2020"
+copyright = "All right reserved copyright"
 footerLogo = "images/contact/widget-logo.png"
 formspreeURL = "YOUR FORMSPREE URL"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"

@@ -54,6 +54,7 @@ url = "blog"
 weight = 4
 
 [params]
+aboutPageSection = "#about"
 blogPageURL = "blog"
 contactLink = "contact"
 copyright = "All right reserved copyright"

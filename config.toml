@@ -14,18 +14,18 @@ weight = 1
 name = "About"
 url = "#about"
 weight = 2
-[[menu.main]]
-name = "Service"
-url = "#service"
-weight = 3
-[[menu.main]]
-name = "Work"
-url = "#portfolio"
-weight = 4
-[[menu.main]]
-name = "Resume"
-url = "#resume"
-weight = 5
+# [[menu.main]]
+# name = "Service"
+# url = "#service"
+# weight = 3
+# [[menu.main]]
+# name = "Work"
+# url = "#portfolio"
+# weight = 4
+# [[menu.main]]
+# name = "Resume"
+# url = "#resume"
+# weight = 5
 [[menu.main]]
 name = "Blog"
 url = "#blog"
@@ -40,14 +40,14 @@ weight = 7
 name = "About me"
 url = "about"
 weight = 1
-[[menu.sitemap]]
-name = "Frequently Ask Question"
-url = "#"
-weight = 2
-[[menu.sitemap]]
-name = "Privacy & Policy"
-url = "#"
-weight = 3
+# [[menu.sitemap]]
+# name = "Frequently Ask Question"
+# url = "#"
+# weight = 2
+# [[menu.sitemap]]
+# name = "Privacy & Policy"
+# url = "#"
+# weight = 3
 [[menu.sitemap]]
 name = "Latest Article"
 url = "blog"
@@ -56,16 +56,17 @@ weight = 4
 [params]
 aboutPageSection = "#about"
 blogPageURL = "blog"
-contactLink = "contact"
+# contactLink = "contact"
+contactUrl = "https://www.linkedin.com/in/wen-xiang-chew/"
 copyright = "All right reserved copyright"
-footerLogo = "images/contact/widget-logo.png"
+# footerLogo = "images/contact/widget-logo.png"
 formspreeURL = "YOUR FORMSPREE URL"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
-logo = "images/site-navigation/logo.png"
+# logo = "images/site-navigation/logo.png"
 
 [params.address]
 address = "Singapore"
-email = "Please drop a message at https://www.linkedin.com/in/wen-xiang-chew/"
+# email = "Please drop a message at https://www.linkedin.com/in/wen-xiang-chew/"
 openingHours = "Will get back to you during working hours"
 # phone = "Please drop a message at https://www.linkedin.com/in/wen-xiang-chew/"
 

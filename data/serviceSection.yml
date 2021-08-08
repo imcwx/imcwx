@@ -1,45 +1,48 @@
 ---
-enable: false
-topTitle: Working Area
+enable: true
+topTitle: Experiences
 title: >
-  ## Creative Services
+  ## Project Journies
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  Work experience journies that I have experienced.
+
+  
+  ACN - Accenture - 2017 - Present
 service:
   - content: >
-      #### UI/UX Design 
+      #### Cyber Security 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      ACN - 
+      Working with large amount of network data and apply a few business case to detect, visualize and analyze discoveries.
     image: images/service/ui-ux.svg
   - content: >
-      #### Web Development 
+      #### Forestry
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      ACN - 
+      Using Deep Learning + Drone imagery to cover large hectares of plantations to provide current yield and detect areas 
+      for improvement to increase yield.
     image: images/service/web.svg
   - content: >
-      #### Creative Design 
+      #### Perosnal Mobility Device - PMD 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      ACN - 
+      Contanerized a Image Detection, YoloV3 on Darknet, to detect cars and PMD for public safety. 
     image: images/service/creative.svg
-  - content: >
-      #### Branding
+  # - content: >
+  #     #### Branding
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/branding.svg
-  - content: >
-      #### UI/UX Design
+  #     Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+  #     tempor invidunt ut labore et dolore magna aliquyam erat.
+  #   image: images/service/branding.svg
+  # - content: >
+  #     #### UI/UX Design
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/ui-ux.svg
-  - content: >
-      #### Web Development
+  #     Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+  #     tempor invidunt ut labore et dolore magna aliquyam erat.
+  #   image: images/service/ui-ux.svg
+  # - content: >
+  #     #### Web Development
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/web.svg
+  #     Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+  #     tempor invidunt ut labore et dolore magna aliquyam erat.
+  #   image: images/service/web.svg

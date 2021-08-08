@@ -1,5 +1,5 @@
 ---
-enable: false
+enable: true
 topTitle: My Skills
 content: >
   ## Why hire me for your next project?
@@ -9,9 +9,13 @@ content: >
 image: images/skill/skill_image.jpg
 
 skill:
-  - title: HTML
-    percent: 69
-  - title: CSS
+  - title: Python
+    percent: 80
+  - title: Scala
     percent: 60
-  - title: Javascript
+  - title: Tensorflow-Keras
     percent: 85
+  - title: Cloudera
+    percent: 60
+  - title: Docker
+    percent: 60

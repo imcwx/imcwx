@@ -14,10 +14,10 @@ weight = 1
 name = "About"
 url = "#about"
 weight = 2
-# [[menu.main]]
-# name = "Service"
-# url = "#service"
-# weight = 3
+[[menu.main]]
+name = "Experiences"
+url = "#service"
+weight = 3
 # [[menu.main]]
 # name = "Work"
 # url = "#portfolio"
@@ -26,6 +26,10 @@ weight = 2
 # name = "Resume"
 # url = "#resume"
 # weight = 5
+[[menu.main]]
+name = "Skills"
+url = "#skill"
+weight = 5
 [[menu.main]]
 name = "Blog"
 url = "#blog"

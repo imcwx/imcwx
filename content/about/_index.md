@@ -1,7 +1,7 @@
 ---
 title: About Me
 date: 2021-07-31T19:01:22+08:00
-postImage: images/single-blog/person_studying.jpg
+postImage: images/hero/me_pokhara.jpg
 featureImage: images/single-blog/books.jpg
 draft: false #true
 ---

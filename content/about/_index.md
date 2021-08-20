@@ -24,6 +24,16 @@ Is it Enough? Can we leave it to the Government as a Push factor? Is it Enough?
 We ought to aim for Carbon Negative, Aim High
 
 
+\
+\
+\
+\
+<br>
+
+## My Competencies
+___
+Some of my skillsets
+
 #### Soft Skills
 - Project Management
 - Planning
@@ -74,7 +84,15 @@ We ought to aim for Carbon Negative, Aim High
 - QGIS
 - Linux OS
 
-### What I want to learn for Work
+\
+\
+\
+<br>
+
+## What I want to learn
+___
+Different areas of interest
+
 ##### MLOps
 ###### It is something that can help Manage and use Data from start to finish, while maintaining data intergrity, audit, governance and security, and yet able to be used for Data scientist to do model iterations, testing and transition to deployment.
 - Use tools that can help automate model/data management
@@ -109,7 +127,14 @@ We ought to aim for Carbon Negative, Aim High
 
 
 
+\
+\
+\
+<br>
+
 ## Hobbies & Interest
+___
+
 
 
 ### Watching Documentaries/shows
@@ -139,8 +164,13 @@ We ought to aim for Carbon Negative, Aim High
 - Bleach
 - ...
 
+\
+\
+\
+<br>
 
 ## Computer Setup
+___
 
 
 ####  Computer Specs
@@ -179,3 +209,42 @@ Second PC
 
 
 
+
+\
+\
+\
+<br>
+
+## Others
+___
+
+##### Attained
+- 1 Star Kayaking
+- Level 1 Sports climbing
+- SSI - Open Water Diver
+- Class 2B and 3 (small motorcycle and car)
+
+
+
+##### Life Skills to learn/experience
+- Powered Pleasure Craft Driving License (PPCDL)
+- Fishing 
+- Bungee Jump
+- Sky Diving
+- Be more flexible ~
+- Travel around
+
+
+
+##### Goals in Life
+- Financial Freedom/Steady Income 
+- House/Private Space, cozy, healthy, easy to clean, convenient
+- Food and Healthy Lifestyle Balance
+- Car/bike/e-bike?/boat?/e-vehicle?
+
+\
+\
+\
+\
+END
+___

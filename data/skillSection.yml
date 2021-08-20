@@ -1,24 +1,35 @@
 ---
 enable: true
-topTitle: My Skills
+topTitle: My Personality
 content: >
-  ## Why hire me for your next project?
+  ## What kind of person I think I am
 
-  My goal is to build a strong supportive professional network among all freelancers and startups in order to improve their performance.
+  Character traits that I feel I am and from Personality Test
 
-image: images/skill/skill_image.jpg
+# image: images/skill/skill_image.jpg
 # image: images/skill/me_looking_away_2.jpg
 image: images/skill/me_twist_1_2.jpg
 # TODO : Scale properly
 
 skill:
-  - title: Python
-    percent: 80
-  - title: Scala
-    percent: 60
-  - title: Tensorflow-Keras
+  # - title: Python
+  #   percent: 80
+  # - title: Scala
+  #   percent: 60
+  # - title: Tensorflow-Keras
+  #   percent: 85
+  # - title: Cloudera
+  #   percent: 60
+  # - title: Docker
+  #   percent: 60
+  - title: Able to work Independently
     percent: 85
-  - title: Cloudera
-    percent: 60
-  - title: Docker
-    percent: 60
+  - title: Learning new Skills
+    percent: 75
+  - title: Thinker and Speaks up
+    percent: 80
+  - title: Collaborate in Teams
+    percent: 80
+  - title: Strategic (Clifton Strength)
+    percent: 85
+

@@ -17,24 +17,20 @@ title: >
   
 service:
   - content: >
-      #### Cyber Security 
+      #### ACN - Cyber Security 
 
-      ACN - 
-      Working with large amount of network data and apply a few business case to detect, visualize and analyze discoveries.
+      Working with large of network data and apply a few business case to detect, visualize and analyze anomaly behaviours. Such as Domain Generated Algorithm (DGA), DDOS, port scanning attempt etc
     image: images/service/ui-ux.svg
   - content: >
-      #### Big Data
+      #### ACN - Big Data
 
-      ACN - 
       (May 2019 – Jun 2020) Worked on network big data, cyber security models, with pyspark, and trained text 
-      classification deep learning models and clustering.
+      classification deep learning models and clustering. We combine external data feed with main data feed to enriched the flow. We had to design and build various processors and workflows, to do ETL, from various input fields to produce useful columns for Analysis. Such as building use cases or monitoring data pattern. 
     image: images/service/ui-ux.svg
   - content: >
-      #### Forestry
+      #### ACN - Forestry
 
-      ACN - 
-      Using Deep Learning + Drone imagery to cover large hectares of plantations to provide current yield and detect areas 
-      for improvement to increase yield.
+      Using Deep Learning + Drone imagery to cover large hectares of plantations to provide current yield and detect areas for improvement to increase yield.
       (Sep 2018 – Jan 2019) Applied Deep Learning models and methodology on drone images for classification. 
       (Forestry Client) Used DSM/DTM/NIR/NDVI various imaging technology to detect Tree/ Weed/ Flood
       /Blankspot from Drone images with geo-referenced information to provide yield forecast and early intervention

@@ -88,8 +88,8 @@ $(document).ready(function () {
   // service slider
   $(".service__slider").slick({
     infinite: false,
-    slidesToShow: 2,
-    slidesToScroll: 2,
+    slidesToShow: 1,
+    slidesToScroll: 1,
     dots: true,
     arrows: false,
     responsive: [

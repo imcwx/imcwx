@@ -6,10 +6,14 @@ title: >
 
   Work experience journies that I have experienced.
 
-  ACN - Accenture - 2017 - Present
-  SUTD - 2014 - 2017
-  NS - 2012 - 2014
-  NUSHS - 2006 - 2011
+
+  - Accenture (ACN) - 2017 - Present
+
+  - Singapore University of Technology and Design (SUTD) - 2014 - 2017
+
+  - National Service (NS) - 2012 - 2014
+
+  - NUS High School of Mathematics and Science (NUSHS) - 2006 - 2011
   
 service:
   - content: >
@@ -48,7 +52,7 @@ service:
   - content: >
       #### SKU Detection
 
-       (Jan 2018 – Jun 2018) Improve object detection models for SKUs on shelves that is deployed on mobile phones. 
+      (Jan 2018 – Jun 2018) Improve object detection models for SKUs on shelves that is deployed on mobile phones. 
       This consist of training Image Classification on Caffe, Object Detection on TensorFlow, and evaluating results. 
       Additionally, trained Faster RCNN with in-depth fine tuning and preprocessing.
 
@@ -56,19 +60,28 @@ service:
   - content: >
       #### Singapore University of Technology and Design
 
-      Capstone:
-      nuTonomy, Driverless Fleets - Analysis sensors to provide insights on passenger's comfort during their journey in an AI driven vehicle.
+      ##### Capstone:
+
+      nuTonomy, Driverless Fleets - Analysized sensors to provide insights on passenger's comfort during their journey.
 
       
-      Academic Experiences:
-      IAP (Independent Activity Period) Jan 2016 - Selected Participant for WIAP (Winter IAP) at MIT 
-      ASEAN Leadership Program (ALP) 2015 - Designed and developed an andriod phone application for Fonda Lighting company that aims to achieve a smart home environment.
+      ##### Academic Experiences:
+
+      - IAP (Independent Activity Period) Jan 2016 - Selected Participant for WIAP (Winter IAP) at MIT 
+      
+      - ASEAN Leadership Program (ALP) 2015 - Designed and developed an andriod phone application for Fonda 
+      
+      - Lighting company that aims to achieve a smart home environment.
       
 
-      Achievements:
-      Sports Core Vice President (2016-2017) - 
-      SUTD Winds Logistic - Performed for Prime Minister Lee Hsien Loong, Jackie Chan and various other important guests at SUTD East Coast Campus Offical Opening Ceremory. (https://www.instagram.com/p/2chMWmmJ6n/)
-      SUTD Utimate Frisbee - Represented SUTD during 2015 SUNIG Games (Singapore University Games)
+      ##### Achievements:
+
+      - Sports Core Vice President (2016-2017) - 
+      
+      -   SUTD Winds Logistic - Performed for Prime Minister Lee Hsien Loong, Jackie Chan and various other important guests at SUTD East Coast Campus Offical Opening Ceremory. 
+      [instalink](https://www.instagram.com/p/2chMWmmJ6n/)
+      
+      - SUTD Utimate Frisbee - Represented SUTD during 2015 SUNIG Games (Singapore University Games)
 
 
     image: images/service/branding.svg
@@ -91,10 +104,15 @@ service:
 
 
       Just to name a few ... 
-      Leadership Roles: Student Council, Orchestra Brass Section Leader, Orchestra President, ...
-      School Events: Speech Day, Sports Day, Music Festival, Open House, Concerts, ...
-      School Services: SDYC (Sustainable Development Youth Convetion), DSA (Direct School Admission), Open House, SIMC (Singapore International Mathematics Challenge), Building Trebuchet, YOG 2010 Torch Bearer... 
-      External Service: Eldercare Centre, Refurbishing Project, Dementia Volunteer, ...
-      External YTSA: 25th SEA Games - Laos - Vientianse 2009, Induction Camps, Sporting Events, 
+
+      - Leadership Roles: Student Council, Orchestra Brass Section Leader, Orchestra President, ...
+      
+      - School Events: Speech Day, Sports Day, Music Festival, Open House, Concerts, ...
+      
+      - School Services: SDYC (Sustainable Development Youth Convetion), DSA (Direct School Admission), Open House, SIMC (Singapore International Mathematics Challenge), Building Trebuchet, YOG 2010 Torch Bearer... 
+      
+      - External Service: Eldercare Centre, Refurbishing Project, Dementia Volunteer, ...
+      
+      - External YTSA: 25th SEA Games - Laos - Vientianse 2009, Induction Camps, Sporting Events, 
 
     image: images/service/web.svg

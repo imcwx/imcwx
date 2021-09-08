@@ -20,8 +20,8 @@ Questions, What would be Sustainable in Singapore?
 - [Energy, Solar Panel](https://www.straitstimes.com/multimedia/graphics/2021/05/singapore-largest-solar-farm-water/index.html?shell)
 - Green Cloud - Moving to technology infrastructure to cloud would let cloud services optimizes energy usage 
 
-Is it Enough? Can we leave it to the Government as a Push factor? Is it Enough?
-We ought to aim for Carbon Negative, Aim High
+Can we leave it to the Government to drive this force? Will it be enough?
+We ought to aim for Carbon Negative ...
 
 
 \

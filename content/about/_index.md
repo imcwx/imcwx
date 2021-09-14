@@ -20,9 +20,21 @@ Questions, What would be Sustainable in Singapore?
 - [Energy, Solar Panel](https://www.straitstimes.com/multimedia/graphics/2021/05/singapore-largest-solar-farm-water/index.html?shell)
 - Green Cloud - Moving to technology infrastructure to cloud would let cloud services optimizes energy usage 
 
-Can we leave it to the Government to drive this force? Will it be enough?
-We ought to aim for Carbon Negative ...
 
+
+##### Goals in Life
+- Financial Freedom/Steady Income 
+    - Do Investment in robo investor, Stocks, RIETS, etc 
+- House/Private Space, 
+    - cozy, healthy, easy to clean, convenient
+    - A Dream would be a plot of land with almost self-sustaining in terms of water, fruits/veg, energy
+- Food and Healthy Lifestyle Balance
+    - Be able to balance my leisure and pleasure, food + habbits + work + exercise while enjoying life pleasures 
+- Car/bike/e-bike?/boat?/e-vehicle?
+    - Would be more efficent mode of travel and fun 
+- Relationship
+    - Whether I meet a partner?
+    - Cherish my friendships and grow
 
 \
 \
@@ -65,20 +77,21 @@ Some of my skillsets
     - Kafka
     - HUE
     - Oozie
-- ElasticSearch & Kibana
+    - Hive SQL
+- ElasticSearch & Kibana Cluster
 
 #### Cloud
-- GCP Professional Data Engineer
+- GCP Professional Data Engineer (certified)
 - AWS Experiences
     - Sage Maker
     - Elasticsearch
     - EC2
     - EMR 
-    - Big Data
+    - Big Data Tools - Code Commit, Code Pipeline, Code Build 
 
 
 #### Tools
-- Tensorflow - Keras
+- Tensorflow - Keras + Tensorboard
 - Docker
 - Pycharm
 - QGIS
@@ -112,12 +125,12 @@ Different areas of interest
 - Recommendation - ?
 - Random-forest/XG-boost - ?
 - Domain:
-- Operation Research, 6 Sigma? 
-- Financial/Banking - ? 
-- Sustainable Environment
-    - How do we push companies towards less carbon footprint
-    - Even better if we can be Carbon Negative, Absorbing carbon
-    - We need to reverse the effects
+    - Operation Research, 6 Sigma
+    - Financial/Banking - 
+    - Sustainable Environment
+        - How do we push companies towards less carbon footprint
+        - Even better if we can be Carbon Negative, Absorbing carbon
+        - We need to reverse the effects
 
 
 ##### Business Skills
@@ -141,6 +154,7 @@ ___
 - National Geography
 - Youtube - Learning Stuff/Educational
 - CNA
+- Anime
 
 ### Gaming
 - Dota 2 - AD/Turbo
@@ -235,12 +249,6 @@ ___
 - Travel around
 
 
-
-##### Goals in Life
-- Financial Freedom/Steady Income 
-- House/Private Space, cozy, healthy, easy to clean, convenient
-- Food and Healthy Lifestyle Balance
-- Car/bike/e-bike?/boat?/e-vehicle?
 
 \
 \

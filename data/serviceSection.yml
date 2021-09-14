@@ -19,40 +19,67 @@ service:
   - content: >
       #### ACN - Cyber Security 
 
-      Working with large of network data and apply a few business case to detect, visualize and analyze anomaly behaviours. Such as Domain Generated Algorithm (DGA), DDOS, port scanning attempt etc
+      (Jun 2020 - Present)
+      
+
+      Working with large of network data and apply a few business case to detect, visualize and analyze anomaly behaviours. 
+      Such as Domain Generated Algorithm (DGA), DDOS, port scanning attempt etc
+
     image: images/service/ui-ux.svg
+
   - content: >
       #### ACN - Big Data
 
-      (May 2019 – Jun 2020) Worked on network big data, cyber security models, with pyspark, and trained text 
-      classification deep learning models and clustering. We combine external data feed with main data feed to enriched the flow. We had to design and build various processors and workflows, to do ETL, from various input fields to produce useful columns for Analysis. Such as building use cases or monitoring data pattern. 
+      (May 2019 – Present)
+      
+      
+      Worked on network big data, cyber security models, with pyspark, trained text 
+      classification deep learning models and clustering. 
+      We combine external data feed with main data feed to enriched the flow. 
+      We had to design and build various processors and workflows, to do ETL, from various input fields to produce useful columns for Analysis. 
+      Such as building use cases or monitoring data pattern. 
+
     image: images/service/ui-ux.svg
+
   - content: >
       #### ACN - Forestry
 
-      Using Deep Learning + Drone imagery to cover large hectares of plantations to provide current yield and detect areas for improvement to increase yield.
-      (Sep 2018 – Jan 2019) Applied Deep Learning models and methodology on drone images for classification. 
-      (Forestry Client) Used DSM/DTM/NIR/NDVI various imaging technology to detect Tree/ Weed/ Flood
-      /Blankspot from Drone images with geo-referenced information to provide yield forecast and early intervention
-    image: images/service/web.svg
-  - content: >
-      #### Personal Mobility Device - PMD 
+      (Sep 2018 – Jan 2019)
+      
 
-      ACN - 
+      Using Deep Learning & Drone imagery to cover large hectares of plantations to provide current yield and detect areas for improvement to increase yield.
+       
+      Applied Deep Learning models and methodology on drone images for classification. 
+      Used DSM/DTM/NIR/NDVI various imaging technology to detect Tree/ Weed/ Flood /Blankspot 
+      from Drone images with geo-referenced information to provide yield forecast and alerts for early intervention
+    image: images/service/web.svg
+
+  - content: >
+      #### ACN - Personal Mobility Device (PMD) 
+
+      (Jul 2018 – Aug 2018) 
+
+
       Contanerized a Image Detection, YoloV3 on Darknet, to detect cars and PMD for public safety. 
-      Jul 2018 – Aug 2018) Deployed YoloV3 on DarkNet in docker container, to detect Car & PMD (personal 
-      mobility devices), and Fashion/clothes on TensorFlow to work as an API
+      Deployed YoloV3 on DarkNet in docker container, to detect Cars & PMDs, and Fashion/clothes on TensorFlow to work as an API
 
     image: images/service/creative.svg
 
   - content: >
-      #### SKU Detection
+      #### ACN - SKU Detection
 
-      (Jan 2018 – Jun 2018) Improve object detection models for SKUs on shelves that is deployed on mobile phones. 
+      (Jan 2018 – Jun 2018)
+      
+      
+      Improve object detection models for SKUs on shelves that is deployed on mobile phones. 
       This consist of training Image Classification on Caffe, Object Detection on TensorFlow, and evaluating results. 
       Additionally, trained Faster RCNN with in-depth fine tuning and preprocessing.
 
+
+      The business usecase is to help store owners to quickly do stock taking less manual labor.
+
     image: images/service/creative.svg
+
   - content: >
       #### Singapore University of Technology and Design
 
@@ -81,6 +108,7 @@ service:
 
 
     image: images/service/branding.svg
+
   - content: >
       #### National Service
 
@@ -93,6 +121,7 @@ service:
       Later on, I was fortunate to make the cut for AGC (Air Grading Course) to test to be a Pilot. However, during the later circuitry course, I was OOC (out of course) and posted to MTI where I help facilate the ASM (Army Shooting Meet)
 
     image: images/service/ui-ux.svg
+
   - content: >
       #### NUS High School of Mathematics and Science
 

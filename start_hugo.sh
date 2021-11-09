@@ -1,1 +1,1 @@
-hugo serve
+hugo server --renderToDisk

@@ -28,6 +28,7 @@ Questions, What would be Sustainable in Singapore?
 - House/Private Space, 
     - cozy, healthy, easy to clean, convenient
     - A Dream would be a plot of land with almost self-sustaining in terms of water, fruits/veg, energy
+    - An Intelligent Home. Self-washing toilet? IoT Windows, doors, laundry, food, ... 
 - Food and Healthy Lifestyle Balance
     - Be able to balance my leisure and pleasure, food + habbits + work + exercise while enjoying life pleasures 
 - Car/bike/e-bike?/boat?/e-vehicle?

@@ -3,7 +3,7 @@ title: "Data Science"
 date: 2021-08-05T19:01:22+08:00
 postImage: images/single-blog/person-thinking-freepik.jpg
 featureImage: images/single-blog/brain_thinking.jpg
-draft: false #true
+draft: true #true
 ---
 
 

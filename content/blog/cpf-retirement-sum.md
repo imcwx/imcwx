@@ -26,25 +26,17 @@ reference:
 https://blog.moneysmart.sg/budgeting/cpf-retirement-sum/
 
 
-![Retirement Sum Extrapolation](/images/single-blog/cpf-extrapolation.png)
+And if we take the values above and extrapolate ...
+(not including possible inflation)
 
-<img class="special-img-class" src="/images/single-blog/cpf-extrapolation.png" />
+![Retirement Sum Extrapolation](cpf-extrapolation.png 'CPF Extrapolation')
+ <!-- {{< figure src="cpf-extrapolation.png" title="Steve Francia" caption="both" >}} -->
 
-<!-- <img src="blog/cpf-extrapolation.png" alt="feature-image"> -->
-
-{{< figure src="/blog/cpf-extrapolation.png" title="Steve Francia" caption="both" >}}
-
-
-
-
-<!-- <img class="special-img-class" src="/images/single-blog/cpf-extrapolation.png" />
-
-<img src="images/skill/clifton_strength.jpg" alt="feature-image">
+Yes, that's right. We would need half a million to get the ERS to retire comfortably at 2050. 
+As a single adult, it has not included other expenditure from CPF, which are housing or having a kid!
 
 
-{{< figure src="images/single-blog/cpf-extrapolation.png" title="Steve Francia" >}}
-
-
-{{< figure src="content/blog/cpf-extrapolation.png" title="Steve Francia" >}} -->
+ All the best fellow Singaporeans. Please do give advice on retirement sum. Do we relly on the government saving plan through CPF, do we have to put more in, or do we have to look at alternatives? 
+ 
 
 

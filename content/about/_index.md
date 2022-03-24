@@ -7,6 +7,7 @@ draft: false #true
 ---
 
 
+
 # More about me 
 I have been working on Big Data, Cyber Security, using Machine Learning and Deep Learning (image detection/classification, NLP, Anomaly) to provide business value to our clients.
 

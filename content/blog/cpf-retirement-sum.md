@@ -39,4 +39,7 @@ As a single adult, it has not included other expenditure from CPF, which are hou
  All the best fellow Singaporeans. Please do give advice on retirement sum. Do we relly on the government saving plan through CPF, do we have to put more in, or do we have to look at alternatives? 
  
 
+"# To update to latest CPF sum due to covid, war and other economic reasons"
+https://www.straitstimes.com/singapore/budget-2022-cpf-basic-retirement-sum-to-be-raised-by-35-per-year-from-2023-to-2027
+
 

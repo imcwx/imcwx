@@ -18,3 +18,12 @@ Stock Photos|
 
 {{</ table >}}
 
+
+https://www.hugofordevelopers.com/articles/master-hugo-modules-managing-themes-as-modules/
+
+https://github.com/gohugoio/hugo/issues/6945
+Bootstrap issue
+solved using https://github.com/gohugoio/hugo-mod-bootstrap-scss-v4
+and changing the bootstrap import at assets/scss/style.scss
+
+

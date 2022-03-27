@@ -2,8 +2,17 @@ baseURL = "https://imcwx.github.io/imcwx/"
 languageCode = "en-us"
 paginate = 6
 
-theme = "portio"
+# theme = "portio"
 title = "My Awesome Site"
+
+[module]
+[module.hugoVersion]
+    extended = true
+[[module.imports]]
+    path = 'github.com/StaticMania/portio-hugo'
+[[module.imports]]
+    path = "github.com/gohugoio/hugo-mod-bootstrap-scss-v4"
+
 
 # Main Menu
 [[menu.main]]

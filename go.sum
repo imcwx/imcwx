@@ -1,0 +1,6 @@
+github.com/StaticMania/portio-hugo v1.0.1-0.20210710191015-efbea690d277 h1:31WgCA3XmicajmHVPvkeJJJMKCvVyb8z2N9Xa99iQoA=
+github.com/StaticMania/portio-hugo v1.0.1-0.20210710191015-efbea690d277/go.mod h1:R6tFxNWV9033HHAwnrjZNzmhP6i4wRGBMA13eRvwc54=
+github.com/gohugoio/hugo-mod-bootstrap-scss-v4 v1.6.1 h1:r+fas/SvSP5JwS/p5iyESN4vqVPVJiJgMo/8EL/SMpk=
+github.com/gohugoio/hugo-mod-bootstrap-scss-v4 v1.6.1/go.mod h1:VHQ9xbucU9fEzMSHMnpYlPmqWgcG2+AgFLt0wE//eg4=
+github.com/twbs/bootstrap v4.6.1+incompatible h1:75PsBfPU1SS65ag0Z3Cq6JNXVAfUNfB0oCLHh9k9Fu8=
+github.com/twbs/bootstrap v4.6.1+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
